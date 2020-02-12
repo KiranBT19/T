@@ -4,3 +4,7 @@
 [submodule "TestSpec"]
 	path = TestSpec
 	url = ../TestSpec.git
+[submodule "TOOLSUP"]
+	path = TOOLSUP
+	url = https://github.com/KiranBT19/TOOLSUP.git
+	branch = master
